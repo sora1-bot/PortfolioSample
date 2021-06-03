@@ -1,0 +1,35 @@
+/*
+ * 画面のスタイルシート
+ */
+
+body {
+    font-family: "Noto Sans JP" "sans-serif";
+    margin: 0;
+    /* min-width は img input textarea select などの領域の幅の最小値を指定する際に使用 */
+    min-width: 1076;
+}
+
+.color-green {
+    color: #00ABAE;
+}
+
+/*
+ * header のスタイルシート
+ */
+
+.block-header {
+    margin: 10px 0;
+    padding: 0 20px 10px;
+    /* rgba とは、red,green,blue,alpha のこと　
+    alpha とは透明度のこと rgb のところには 0~255 までの数値を指定 
+    a は 0が0%,0.5が50%,1が100% */
+    box-shadow: 0 10px 10px -5px rgba(204, 204, 204, 0.3);
+}
+
+.block-header a {
+    font-size: 40px;
+    color: #000;
+    text-decoration: none;
+    /* letter-spacing とは、文字間の隙間を指定 */
+    letter-spacing: 1px;
+}
