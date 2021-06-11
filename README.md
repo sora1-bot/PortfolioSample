@@ -1,10 +1,10 @@
-Name
+Portfolio Sample
 ===
 
-プロジェクトの概要説明
+ポートフォリオのサンプル
 
 ## デモ
-デモのURLや、スクリーンショットを記載する
+https://techis-jp-portfolio-sample-aki.herokuapp.com
 
 ## 利用している技術
 使った言語やツールなどのバージョンを記載する
