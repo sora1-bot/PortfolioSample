@@ -4,7 +4,7 @@ Portfolio Sample
 ポートフォリオのサンプル
 
 ## デモ
-[](https://techis-jp-portfolio-sample-aki.herokuapp.com/)
+[Webサイトをみる](https://techis-jp-portfolio-sample-aki.herokuapp.com/)
 
 ## 利用している技術
 使った言語やツールなどのバージョンを記載する
